@@ -1,0 +1,23 @@
+.section {
+  height: 10vh;
+  margin-bottom: 5vh;
+  background-color: rgba(25, 68, 68, 0.183);
+  width: 100%;
+  padding: 0 5vw;
+}
+.div {
+  overflow-y: scroll;
+  height: 10vh;
+  width: 90%;
+}
+.App {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+p {
+  font-size: 2em;
+  color: #316378;
+}
